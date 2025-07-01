@@ -17,7 +17,7 @@ I'm a Cloud enthusiast with a strong foundation in **Amazon Web Services (AWS)**
 
 ## 🛠️ Projects
 
-### 🔹 [Three Tier Architecture](https://github.com/aasim1110/AWS-3TA)
+### 🔹 [Three Tier Architecture](https://github.com/aasim1110/3-TIER-AT)
 Designed and deployed a 3-tier architecture on AWS with:
 - EC2 for Web & App tier (Nginx + PHP-FPM)
 - RDS MySQL in the DB tier
