@@ -17,14 +17,14 @@ I'm a Cloud enthusiast with a strong foundation in **Amazon Web Services (AWS)**
 
 ## 🛠️ Projects
 
-### 🔹 [Three Tier Architecture](https://github.com/aasim1110/three-tier-architecture)
+### 🔹 [Three Tier Architecture](https://github.com/aasim1110/AWS-3TA)
 Designed and deployed a 3-tier architecture on AWS with:
 - EC2 for Web & App tier (Nginx + PHP-FPM)
 - RDS MySQL in the DB tier
 - Custom VPC, subnets, and IAM roles
 - Monitoring using CloudWatch
 
-### 🔹 [S3 Image Upload App](https://github.com/aasim1110/s3-image-handler)
+### 🔹 [S3 Image Upload App](https://github.com/aasim1110/Dynamic_S3_mage_Handle)
 A simple web app where users upload images (<1MB):
 - Stored in Amazon S3
 - Metadata saved in RDS
