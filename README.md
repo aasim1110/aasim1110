@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Aasim Bagwan
 
-<!--
-**aasim1110/aasim1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud enthusiast with a strong foundation in **Amazon Web Services (AWS)**. I enjoy designing and deploying secure, scalable, and cost-effective cloud architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ AWS Skills
+
+- **Core Services**: EC2, S3, RDS, VPC, IAM, Route 53, CloudWatch
+- **Architecture**: 3-Tier Architecture (Web, App, DB layers using custom VPC)
+- **Security**: IAM Roles, Private/Public Subnets, Security Groups
+- **Web Servers**: Nginx, Apache on EC2
+- **OS**: Amazon Linux, Ubuntu
+- **Database**: MySQL (via RDS)
+
+---
+
+## 🛠️ Projects
+
+### 🔹 [Three Tier Architecture](https://github.com/aasim1110/three-tier-architecture)
+Designed and deployed a 3-tier architecture on AWS with:
+- EC2 for Web & App tier (Nginx + PHP-FPM)
+- RDS MySQL in the DB tier
+- Custom VPC, subnets, and IAM roles
+- Monitoring using CloudWatch
+
+### 🔹 [S3 Image Upload App](https://github.com/aasim1110/s3-image-handler)
+A simple web app where users upload images (<1MB):
+- Stored in Amazon S3
+- Metadata saved in RDS
+- Built using PHP & hosted on EC2
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [aasimbagwan1110@gmail.com](mailto:aasimbagwan1110@gmail.com)
+- 🔗 GitHub: [github.com/aasim1110](https://github.com/aasim1110)
